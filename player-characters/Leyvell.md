@@ -21,7 +21,7 @@ When you get asked to **roll a save**, roll a D20 and add the relevant modifier.
 
 | Attribute     | Score  | Description                                                                           |
 | ------------- | ------ | ------------------------------------------------------------------------------------- |
-| Hit Points    | 1      | Maximum amount of hitpoints. Lose consciousness at 0. Die at -1.                      |
+| Hit Points    | 5      | Maximum amount of hitpoints. Lose consciousness at 0. Die at -1.                      |
 | HP/Rest       | d8 + 1 | Restored on a meal and a full nights rest.                                            |
 | Henchmen      | 1      | Maximum number of henchmen.                                                           |
 | Armor Defense | 11     | Determined by your worn armor.                                                        |
